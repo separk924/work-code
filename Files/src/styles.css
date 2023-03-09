@@ -1,0 +1,28 @@
+#root {
+  padding: 20px;
+}
+
+@font-face {
+    font-family: "century-gothic";
+    src: url("./century-gothic/CenturyGothic.ttf") format(truetype);
+  }
+
+body {
+  background-color: #88A4BC;
+  font-family: century-gothic;
+}
+
+.header{
+  text-align: center;
+  margin: 10px;
+}
+
+.logo {
+  height: 170px;
+  width:auto;
+}
+
+.bb8 {
+  height: 150px;
+  width: auto;
+}
